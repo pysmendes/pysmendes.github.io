@@ -10,5 +10,6 @@
     <h2>Tecnologias atuais</h2>
     <li>React</li>
     <li>Node.js</li>
+    (Abrir página)["./page2.html"]
 </body>
 </html>
